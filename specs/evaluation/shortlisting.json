@@ -1,0 +1,20 @@
+{
+  "decisions": [
+    {
+      "status": "shortlisted",
+      "minimum_score": 80,
+      "recommendation": "Shortlist"
+    },
+    {
+      "status": "hold",
+      "minimum_score": 60,
+      "maximum_score": 79,
+      "recommendation": "Hold"
+    },
+    {
+      "status": "rejected",
+      "maximum_score": 59,
+      "recommendation": "Reject"
+    }
+  ]
+}

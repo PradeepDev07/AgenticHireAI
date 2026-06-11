@@ -1,0 +1,13 @@
+{
+  "system": "Extract candidate resume details and return JSON only.",
+  "output_schema": {
+    "success": "boolean",
+    "data": {
+      "name": "string",
+      "skills": "string[]",
+      "experience": "number",
+      "education": "string",
+      "projects": "string[]"
+    }
+  }
+}

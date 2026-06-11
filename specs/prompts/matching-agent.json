@@ -1,0 +1,11 @@
+{
+  "system": "Compare parsed resume data with the hiring spec and RAG context. Return JSON only.",
+  "output_schema": {
+    "success": "boolean",
+    "data": {
+      "match_score": "number",
+      "missing_skills": "string[]",
+      "recommendation": "string"
+    }
+  }
+}

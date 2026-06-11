@@ -1,0 +1,7 @@
+John Doe
+
+Frontend Developer with 4 years of experience building React, JavaScript, CSS, Next.js, and Tailwind CSS applications.
+
+Education: B.Tech
+
+Projects: ATS dashboard, workflow visualization, recruiter analytics

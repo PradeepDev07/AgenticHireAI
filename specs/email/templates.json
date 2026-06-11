@@ -1,0 +1,10 @@
+{
+  "interview_invite": {
+    "subject": "Interview invitation for {{jobTitle}}",
+    "body": "Hi {{candidateName}}, your profile has been shortlisted for {{jobTitle}}. We will share interview details shortly."
+  },
+  "rejection": {
+    "subject": "Update on your {{jobTitle}} application",
+    "body": "Hi {{candidateName}}, thank you for applying. We are not moving forward at this time."
+  }
+}
